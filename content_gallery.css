@@ -2,9 +2,18 @@ body {
     background-color: #EDE2DE;
 }
 
+{
+  box-sizing: border-box;
+}
+
 h1 {
     color: navy;
     margin-left: 20px;
+}
+
+footer{
+    text-align: center;
+        align-items: baseline;
 }
 
 .flex-container {
@@ -80,3 +89,10 @@ h1 {
     margin: 10px;
     
 }
+
+.main {
+  width: 100%;
+text-align: center;
+  padding: 15px;
+
+
